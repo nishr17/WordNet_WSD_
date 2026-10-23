@@ -1,0 +1,11 @@
+word,sentence,expected_synset
+bank,The fisherman sat on the river bank.,bank.n.01
+bank,She deposited her savings at the bank.,depository_financial_institution.n.01
+bat,A bat flew from the cave at dusk.,bat.n.01
+bat,The batter swung his bat and hit the ball.,bat.n.02
+mouse,The mouse ate cheese in the kitchen.,mouse.n.01
+mouse,She clicked the computer mouse.,mouse.n.04
+plant,The gardener watered the plant.,plant.n.02
+plant,The factory plant produces cars.,plant.n.01
+spring,Flowers bloom during spring.,spring.n.01
+spring,The metal spring compressed under pressure.,spring.n.02
